@@ -44,11 +44,25 @@ Similar to Stage 1, the generator and discriminator are trained iteratively, but
 
 ### Results Visualization
 
+
 After training, the generated images are visualized to assess the performance of the GAN. These images are expected to look similar to real Pokémon images, capturing various details and features.
 These are results produced in Stage-1
 
+#### Stage 1
 ![Screenshot 2024-06-21 000009](https://github.com/AaSiKu/Illusion_craft_Assignment_3/assets/152218569/be41a32c-713e-4551-b107-cf1d3f1c9b51)
 
 And these are the corresponding original images
 
 ![Screenshot 2024-06-21 000017](https://github.com/AaSiKu/Illusion_craft_Assignment_3/assets/152218569/1b8fe4c8-8a52-434c-9bef-35d5655577fa)
+
+
+#### Stage 2
+![image](https://github.com/AaSiKu/Illusion_craft_Assignment_3/assets/152694783/a923538f-a550-4d7e-9c01-e77392962b5f)
+
+And these are the corresponding original images
+
+![image](https://github.com/AaSiKu/Illusion_craft_Assignment_3/assets/152694783/e1128120-ba97-4632-8a7c-458e49f87d78)
+
+
+
+
