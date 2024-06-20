@@ -49,6 +49,6 @@ These are results produced in Stage-1
 
 ![Screenshot 2024-06-21 000009](https://github.com/AaSiKu/Illusion_craft_Assignment_3/assets/152218569/be41a32c-713e-4551-b107-cf1d3f1c9b51)
 
-And these are the corressponding original images
+And these are the corresponding original images
 
 ![Screenshot 2024-06-21 000017](https://github.com/AaSiKu/Illusion_craft_Assignment_3/assets/152218569/1b8fe4c8-8a52-434c-9bef-35d5655577fa)
